@@ -1,10 +1,12 @@
 
-p.right {
-    text-align:right
+h2 {
+    text-align: right;
 }
 p.center {
-    text-align:center
+    text-align:center;
 }
 p.left {
-    text-align:left
+    text-align:left;
+}
+body {font-family: san serif;
 }
