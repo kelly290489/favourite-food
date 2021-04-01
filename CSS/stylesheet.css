@@ -1,17 +1,10 @@
-h1 {
-    text-align: left;
-}
 
-h2 {
-    text-align: right;
-    background-color:green;
-}
-.right {
+p.right {
     text-align:right
 }
-.center {
+p.center {
     text-align:center
 }
-.left {
+p.left {
     text-align:left
 }
